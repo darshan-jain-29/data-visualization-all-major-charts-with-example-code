@@ -1,4 +1,4 @@
-# data-visualization-all-major-charts-with-example-code
+# Data-Visualization-All-Major-Charts-with-Example-Code
 
 
 Hello Readers,
