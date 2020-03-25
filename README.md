@@ -34,4 +34,4 @@ As the instructor have divided the charts in following 3 categories, it will hel
     b. Kenrnel Density Plot
     
     
-Refer this notebook and I highly recommend to do the [course](https://www.kaggle.com/learn/data-visualization). Also, please upvote if you like the notebook.
+Refer this notebook and I highly recommend to do the [course](https://www.kaggle.com/learn/data-visualization). 
