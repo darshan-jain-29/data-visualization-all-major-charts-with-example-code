@@ -16,13 +16,22 @@ As the instructor have divided the charts in following 3 categories, it will hel
 2. Relationshiop
 
     a. Bar charts
+    
     b. Scatter plots
+    
     c. Regression plots
+    
     d. Swarm plots
+    
     e. LM plots
+    
     f. Heat maps
+    
 3. Distrubution
+
     a. Histogram
+    
     b. Kenrnel Density Plot
+    
     
 Refer this notebook and I highly recommend to do the [course](https://www.kaggle.com/learn/data-visualization). Also, please upvote if you like the notebook.
