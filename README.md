@@ -11,8 +11,10 @@ As the instructor have divided the charts in following 3 categories, it will hel
 
 3 categories which can help you to decide which chart can give you insights for a given scenario:-
 1. Trends
+
     a. Line charts     
-2. Relationshio
+2. Relationshiop
+
     a. Bar charts
     b. Scatter plots
     c. Regression plots
